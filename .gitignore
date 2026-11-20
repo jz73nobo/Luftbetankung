@@ -1,0 +1,7 @@
+# Simulink / MATLAB build artifacts
+slprj/
+*.slxc
+
+# MATLAB autosave files
+*.asv
+*.m~
